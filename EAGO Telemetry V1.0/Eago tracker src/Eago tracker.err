@@ -1,0 +1,43 @@
+PCB Net List Errors Report - Eago tracker.sch - Mon Jul  3 22:17:48 2023
+-------------------------------------------------------------------------
+Design to Library Part Consistency Check
+----------------------------------------
+No Library consistency checking errors.
+
+Single/Zero Pin Net Warnings
+----------------------------
+No single or zero pin nets.
+
+Schematic Connectivity Errors
+-----------------------------
+
+Power or Ground Symbols used with wrong Net Name
+
++3.3V
+STM32        X2300  Y7500  - Power  Symbol used for net: +5V
+STM32        X6120  Y7300  - Power  Symbol used for net: +5V
+STM32        X7160  Y2200  - Power  Symbol used for net: +5V
+STM32        X10460 Y7960  - Power  Symbol used for net: +5V
+STM32        X7760  Y9220  - Power  Symbol used for net: +5V
+STM32        X9820  Y5580  - Power  Symbol used for net: +5V
+STM32        X7960  Y4920  - Power  Symbol used for net: +5V
+STM32        X6360  Y6660  - Power  Symbol used for net: +5V
+STM32        X12480 Y6880  - Power  Symbol used for net: +5V
+STM32        X15180 Y5540  - Power  Symbol used for net: +5V
+STM32        X4880  Y2000  - Power  Symbol used for net: +5V
+STM32        X1960  Y2040  - Power  Symbol used for net: +5V
+STM32        X10360 Y4140  - Power  Symbol used for net: +5V
+POWER        X5800  Y3600  - Power  Symbol used for net: +5V
+SIM868/SIM7080 X7600  Y9400  - Power  Symbol used for net: +5V
+SIM868/SIM7080 X12400 Y5040  - Power  Symbol used for net: +5V
+OUTPUTS/INPUTS X2360  Y3280  - Power  Symbol used for net: +5V
+OUTPUTS/INPUTS X5960  Y2460  - Power  Symbol used for net: +5V
+OUTPUTS/INPUTS X12000 Y5300  - Power  Symbol used for net: +5V
+
+Subnets with Missing Off-Page Reference
+
+$$$32218
+SIM868/SIM7080 X11480 Y3460  - Pin: J7.3
+
+RESET
+STM32        X7460  Y7260  - Pin: U1.7

@@ -1,0 +1,169 @@
+Version: 1
+RefDes: 2
+FactPartName: "641126-2"
+SubSeriesName: "641126-2"
+PartNum: "641126-2"
+Height: 0
+Mass: 9999
+Package: "641126-2"
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\641126-2\641126-2.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\641126-2\641126-2.etd"
+
+
+RefDes: 6
+FactPartName: "CAP0805"
+SubSeriesName: "1206ZC226KAT2A"
+PartNum: "1206ZC226KAT2A"
+Height: 0
+Mass: 9999
+Package: "1206ZC226KAT2A"
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\1206ZC226KAT2A\1206ZC226KAT2A.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\1206ZC226KAT2A\1206ZC226KAT2A.etd"
+
+
+RefDes: 4
+FactPartName: "B3B-PH-K-S(LF)(SN)"
+SubSeriesName: "B3B-PH-K-S-LF--SN---3DModel-STEP-56544"
+PartNum: "B3B-PH-K-S-LF--SN---3DModel-STEP-56544"
+Height: 0
+Mass: 9999
+Package: "B3B-PH-K-S-LF--SN---3DModel-STEP-56544"
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\B3B-PH-K-S-LF--SN---3DModel-STEP-56544\B3B-PH-K-S-LF--SN---3DModel-STEP-56544.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\B3B-PH-K-S-LF--SN---3DModel-STEP-56544\B3B-PH-K-S-LF--SN---3DModel-STEP-56544.etd"
+
+
+RefDes: 9
+FactPartName: "GRM1882C2A220JA01D"
+SubSeriesName: "GRM1882C2A220JA01D"
+PartNum: "GRM1882C2A220JA01D"
+Height: 0
+Mass: 9999
+Package: "GRM1882C2A220JA01D"
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\GRM1882C2A220JA01D\GRM1882C2A220JA01D.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\GRM1882C2A220JA01D\GRM1882C2A220JA01D.etd"
+
+
+RefDes: 7
+FactPartName: "EEE1CA100SR"
+SubSeriesName: "EEE1CA100SR"
+PartNum: "EEE1CA100SR"
+Height: 0
+Mass: 9999
+Package: "EEE1CA100SR"
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\EEE1CA100SR\EEE1CA100SR.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\EEE1CA100SR\EEE1CA100SR.etd"
+
+
+RefDes: 11
+FactPartName: "MP2161GJP"
+SubSeriesName: "MP2161GJ-Z"
+PartNum: "MP2161GJ-Z"
+Height: 0
+Mass: 9999
+Package: "MP2161GJ-Z"
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\MP2161GJ-Z\MP2161GJ-Z.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\MP2161GJ-Z\MP2161GJ-Z.etd"
+
+
+RefDes: 5
+FactPartName: "BCW66GLT1G"
+SubSeriesName: "BCW66GLT1G"
+PartNum: "BCW66GLT1G"
+Height: 0
+Mass: 9999
+Package: "BCW66GLT1G"
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\BCW66GLT1G\BCW66GLT1G.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\BCW66GLT1G\BCW66GLT1G.etd"
+
+
+RefDes: 13
+FactPartName: "SS36"
+SubSeriesName: "SS36B"
+PartNum: "SS36B"
+Height: 0
+Mass: 9999
+Package: "SS36B"
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\SS36B\SS36B.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\SS36B\SS36B.etd"
+
+
+RefDes: 10
+FactPartName: "LTST-C171GKT"
+SubSeriesName: "7012X1--3DModel-STEP-1"
+PartNum: "7012X1--3DModel-STEP-1"
+Height: 0
+Mass: 9999
+Package: "7012X1--3DModel-STEP-1"
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\7012X1--3DModel-STEP-1\7012X1--3DModel-STEP-1.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\7012X1--3DModel-STEP-1\7012X1--3DModel-STEP-1.etd"
+
+
+RefDes: 0
+FactPartName: "1206ZC226KAT2A"
+SubSeriesName: "1206ZC226KAT2A_0"
+PartNum: "1206ZC226KAT2A_0"
+Height: 0
+Mass: 9999
+Package: "1206ZC226KAT2A_0"
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\1206ZC226KAT2A_0\1206ZC226KAT2A_0.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\1206ZC226KAT2A_0\1206ZC226KAT2A_0.etd"
+
+
+RefDes: 12
+FactPartName: "PTS525SM15SMTR2LFS"
+SubSeriesName: "PTS525SM15SMTR2LFS--3DModel-STEP-56544"
+PartNum: "PTS525SM15SMTR2LFS--3DModel-STEP-56544"
+Height: 0
+Mass: 9999
+Package: "PTS525SM15SMTR2LFS--3DModel-STEP-56544"
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\PTS525SM15SMTR2LFS--3DModel-STEP-56544\PTS525SM15SMTR2LFS--3DModel-STEP-56544.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\PTS525SM15SMTR2LFS--3DModel-STEP-56544\PTS525SM15SMTR2LFS--3DModel-STEP-56544.etd"
+
+
+RefDes: 1
+FactPartName: "132134"
+SubSeriesName: "132134"
+PartNum: "132134"
+Height: 0
+Mass: 9999
+Package: "132134"
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\132134\132134.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\132134\132134.etd"
+
+
+RefDes: 3
+FactPartName: "ABM10163676MHZE20T"
+SubSeriesName: "ABM3B-8.000MHZ-D-2-T"
+PartNum: "ABM3B-8.000MHZ-D-2-T"
+Height: 0
+Mass: 9999
+Package: "ABM3B-8.000MHZ-D-2-T"
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\ABM3B-8.000MHZ-D-2-T\ABM3B-8.000MHZ-D-2-T.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\ABM3B-8.000MHZ-D-2-T\ABM3B-8.000MHZ-D-2-T.etd"
+
+
+RefDes: 8
+FactPartName: "ERA-3AEB2262V"
+SubSeriesName: "ERA-3AEB2262V_0"
+PartNum: "ERA-3AEB2262V_0"
+Height: 0
+Mass: 9999
+Package: "ERA-3AEB2262V_0"
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\ERA-3AEB2262V_0\ERA-3AEB2262V_0.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\ERA-3AEB2262V_0\ERA-3AEB2262V_0.etd"
+
+

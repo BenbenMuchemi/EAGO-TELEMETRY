@@ -1,0 +1,68 @@
+==============================================================================
+PADS Layout - Version 2022.2.20124196
+==============================================================================
+Job Name:                  C:\Users\Roam\Documents\GitHub\EAGO\EAGO TRACKER\Eago tracker.pcb
+
+3D Design Status Report:   C:\Users\Roam\Documents\GitHub\EAGO\EAGO TRACKER\LogFiles\DesignStatus3D_00.txt
+
+09:01:59 PM Monday, May 06, 2024
+
+==============================================================================
+3D DESIGN STATUS
+==============================================================================
+
+Design Z Extents ......... -122.73 th to 407.58 th
+
+Part models found ........ 14
+   Part Number             3D Model
+   1206ZC226KAT2A          1206ZC226KAT2A_0
+   132134                  132134
+   641126-2                641126-2
+   ABM10163676MHZE20T      ABM3B-8.000MHZ-D-2-T
+   B3B-PH-K-S(LF)(SN)      B3B-PH-K-S-LF--SN---3DModel-STEP-56544
+   BCW66GLT1G              BCW66GLT1G
+   CAP0805                 1206ZC226KAT2A
+   EEE1CA100SR             EEE1CA100SR
+   ERA-3AEB2262V           ERA-3AEB2262V_0
+   GRM1882C2A220JA01D      GRM1882C2A220JA01D
+   LTST-C171GKT            7012X1--3DModel-STEP-1
+   MP2161GJP               MP2161GJ-Z
+   PTS525SM15SMTR2LFS      PTS525SM15SMTR2LFS--3DModel-STEP-56544
+   SS36                    SS36B
+
+Part models not found .... 33
+   Part Number
+   15465512
+   74438356010
+   826646-5
+   AO4407A
+   BC807
+   CRCW0402294RFKED
+   CRGP1206F120K
+   CZRU52C3V3
+   EMVE250ADA101MF80G
+   FDN359BN_F095
+   GRM21BR71H224JA01L
+   IRLML2502TRPBF
+   LDLN030G33R
+   LIS2DH12TR
+   LM66100DCKR
+   LQW18AN6N8D10J
+   MAX16171ATA_VY+
+   MAX2659ELT+T
+   MCP2562-E_MF
+   MDWK4040T1R5MM
+   MP2565DQ-LF-Z
+   MP2615BGQ_Z
+   MP3423GG-P
+   MX23A18NF1
+   NRS6045T6R8MMGK
+   SIM868
+   SIM_CONNECTOR
+   SIP32408DNP-T1-GE4
+   SN74AHC1G04DBVR
+   STM32F103RGT6TR
+   U.FL-R-SMT-1(10)
+   W25Q256JVEIM
+   XAL5050-153MEC
+
